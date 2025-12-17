@@ -2,7 +2,7 @@ export const portfolioData = {
     personal: {
         name: "Gabriel Castro Cavalcante",
         title: "Desenvolvedor FullStack",
-        email: "gabriel.cavalcante@hotmail.com",
+        email: "gabrielc.cavalcante@hotmail.com",
         phone: "(83) 98751-4931",
         location: "João Pessoa, PB",
     },
