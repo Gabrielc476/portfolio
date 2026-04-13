@@ -99,7 +99,7 @@ export const portfolioData = {
         backend: {
             title: "Back-End",
             color: "pink",
-            items: ["Node.js", "Python", "Flask", "Express", "APIs RESTful", "Testes Unitários"],
+            items: ["Node.js","NestJS", "Python", "Flask", "Express", "APIs RESTful", "Testes Unitários"],
         },
         database: {
             title: "Banco de Dados",
